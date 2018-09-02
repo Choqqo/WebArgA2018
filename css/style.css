@@ -1,0 +1,33 @@
+footer{
+  padding-top: 100%;
+}
+
+body{
+ background-image: url(../images/textureArga.png);
+}
+
+.navigation-button{
+  padding: 20px;
+  margin: 0px;
+}
+
+.navigation-button:hover{
+  background-color: #f9a629;
+}
+
+.logos-right,.navigation{
+  z-index: 1;
+  width: 50%;
+}
+.navigation{
+  float:right;
+}
+
+.logos-right{
+  float: left;
+  background-color: #0095db;
+}
+
+.all-navigationvar{
+
+}

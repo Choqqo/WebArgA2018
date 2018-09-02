@@ -1,0 +1,17 @@
+{
+  "name": "Web ArgA 2018",
+  "authors": [
+    "Eduardo Pereyra Yraola <eduardo.pereyrayraola@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "keywords": [
+    "ArgA"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "bootstrap": "^4.1.3"
+  }
+}
